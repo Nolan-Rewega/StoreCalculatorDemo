@@ -2,11 +2,12 @@
 
 This assignment took me roughly ~4hrs
 
-##Dependencies used
-Java version 15.0.1
+## Dependencies used
+Java JDK version 15.0.1
 
-org.json Version (v20220320)-- https://github.com/stleary/JSON-java
-JavaFX SDK Version (11.0.2)-- https://openjfx.io/  
+
+org.json Version (v20220320) -- https://github.com/stleary/JSON-java  
+JavaFX SDK Version (11.0.2) -- https://openjfx.io/  
 
 Both Libraries included.
 
